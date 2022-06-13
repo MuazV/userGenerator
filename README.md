@@ -7,3 +7,4 @@
 In this project, I aimed to show the different methods and functions I mentioned above and the use of Web API in the project.
 
 [To See All Page Click Here](https://muazv.github.io/userGenerator/)
+![](https://github.com/MuazV/userGenerator/blob/master/image/Preview.jpg)
